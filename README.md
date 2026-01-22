@@ -58,7 +58,10 @@ USE team_directory;
 ```
 
 ### 2. Backend Setup (ColdFusion/Lucee)
-
+ **Download and extract Lucee Express:**
+   - https://download.lucee.org/
+   - Extract to: `C:\lucee-express\`
+   - 
 1. Copy the `backend` folder to Lucee webapps:
 ```
    C:\lucee-express\webapps\ROOT\team-directory\
